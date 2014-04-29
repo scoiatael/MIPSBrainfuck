@@ -11,3 +11,6 @@ Because I can.
 - write your example brainfuck program to test.bf
 - execute BF.asm in MARS
 - enjoy
+
+### New: simple trap catching to avoid unaligned store/load problems
+
